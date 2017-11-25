@@ -1,0 +1,320 @@
+{
+  "24.sapo.pt": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "Website from Portugal", 
+    "type": "unreliable"
+  }, 
+  "band.uol.com.br": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "beneditinos.org.br": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "Religious website", 
+    "type": "bias"
+  }, 
+  "blog.correios.com.br": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "blogs.lance.com.br": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "blogs.ne10.uol.com.br": {
+    "2nd type": "bias", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "political"
+  }, 
+  "br.ign.com": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "br.radiovaticana.va": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "bias"
+  }, 
+  "brasil.estadao.com.br": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "cinemacomrapadura.com.br": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "cnn.com": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "correios.com.br": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "cultura.estadao.com.br": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "doctorwhobrasil.com.br": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "satire"
+  }, 
+  "dontpaniconline.com": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "satire"
+  }, 
+  "estadao.com.br": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "foda-seoestado.com": {
+    "2nd type": "bias", 
+    "3rd type": "unreliable", 
+    "Source Notes (things to know?)": "", 
+    "type": "political"
+  }, 
+  "folha.uol.com.br": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "gawker.com": {
+    "2nd type": "conspiracy", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "rumor"
+  }, 
+  "globo.com": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://blogs.ne10.uol.com.br": {
+    "2nd type": "bias", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "political"
+  }, 
+  "http://deadline.com/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://defamer.gawker.com/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "rumor"
+  }, 
+  "http://edition.cnn.com/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "I'm putting as reliable, even though the source has its problems", 
+    "type": "reliable"
+  }, 
+  "http://esporte.band.uol.com.br/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://fudzilla.com/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://g1.globo.com/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://gizmodo.uol.com.br/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://homemeterno.com/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "bias"
+  }, 
+  "http://institutoborborema.com/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "bias"
+  }, 
+  "http://jconline.ne10.uol.com.br/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://midiasemmascara.org/": {
+    "2nd type": "political", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "bias"
+  }, 
+  "http://money.cnn.com/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://newgameplus.com.br/": {
+    "2nd type": "bias", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://nosbastidores.com.br/": {
+    "2nd type": "bias", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://observador.pt/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://odia.ig.com.br/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://opontonerd.com.br/": {
+    "2nd type": "bias", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://ovicio.com.br/": {
+    "2nd type": "bias", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://pioneiro.clicrbs.com.br": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://radiovox.org/": {
+    "2nd type": "rumor", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "unreliable"
+  }, 
+  "http://reaconaria.org/": {
+    "2nd type": "bias", 
+    "3rd type": "political", 
+    "Source Notes (things to know?)": "", 
+    "type": "unreliable"
+  }, 
+  "http://revistagalileu.globo.com/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://rothbardbrasil.com/": {
+    "2nd type": "bias", 
+    "3rd type": "political", 
+    "Source Notes (things to know?)": "", 
+    "type": "unreliable"
+  }, 
+  "http://runt-of-the-web.com/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "satire"
+  }, 
+  "http://www.band.uol.com.br/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://www.folha.uol.com.br/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "ign.com": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "lance.com.br": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "leadership.ng": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "pocketnow.com": {
+    "2nd type": "bias", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "radiovaticana.va": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "bias"
+  }, 
+  "sapo.pt": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "Website from Portugal, even though it contains nice news, it also contains news saying that cancer was cured, when in fact nothing was proved about the method they were noticing about.", 
+    "type": "unreliable"
+  }
+}
