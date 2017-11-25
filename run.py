@@ -5,6 +5,8 @@
 import json
 from pprint import pprint
 
+OUTPUT_FILE = 'thiago_data2.json'
+
 
 def main():
   domain = raw_input('Domain: ')
@@ -18,12 +20,12 @@ def main():
   tipe_2 = unicode(tipe_2, 'utf-8')
   tipe_3 = unicode(tipe_3, 'utf-8')
   things = unicode(things, 'utf-8')
-
-
-  data = json.load(open('data.json'))
+  
+  
+  data = json.load(open(OUTPUT_FILE))
   data[domain] = {u'type': tipe, u'2nd type': tipe_2, u'3rd type': tipe_3, u'Source Notes (things to know?)': things}
   
-  with open('data.json', 'w') as outfile:
+  with open(OUTPUT_FILE, 'w') as outfile:
     outfile.write(json.dumps(data, indent=2, sort_keys=True))
   
 
