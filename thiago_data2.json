@@ -1,3 +1,302 @@
 {
-
+  "http://telegramgeeks.com": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://ultimosegundo.ig.com.br/": {
+    "2nd type": "rumor", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "unreliable"
+  }, 
+  "http://variety.com/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://veja.abril.com.br": {
+    "2nd type": "bias", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://www.acritica.com/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://www.alertatotal.net/": {
+    "2nd type": "bias", 
+    "3rd type": "political", 
+    "Source Notes (things to know?)": "", 
+    "type": "unreliable"
+  }, 
+  "http://www.androidpolice.com/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://www.bbc.co.uk": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://www.bbc.com": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://www.bloco01.com.br": {
+    "2nd type": "bias", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://www.boatos.org/": {
+    "2nd type": "rumor", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "unreliable"
+  }, 
+  "http://www.businessinsider.com/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://www.chicagotribune.com/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://www.citizengo.org": {
+    "2nd type": "bias", 
+    "3rd type": "political", 
+    "Source Notes (things to know?)": "", 
+    "type": "unreliable"
+  }, 
+  "http://www.correiobraziliense.com.br/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://www.diariodepernambuco.com.br/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://www.diariodocentrodomundo.com.br/": {
+    "2nd type": "bias", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "unreliable"
+  }, 
+  "http://www.dw.com": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://www.galeriadometeorito.com/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "unreliable"
+  }, 
+  "http://www.huffpostbrasil.com/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://www.ilisp.org/": {
+    "2nd type": "bias", 
+    "3rd type": "political", 
+    "Source Notes (things to know?)": "", 
+    "type": "unreliable"
+  }, 
+  "http://www.imprensaviva.com/": {
+    "2nd type": "bias", 
+    "3rd type": "political", 
+    "Source Notes (things to know?)": "", 
+    "type": "unreliable"
+  }, 
+  "http://www.maconsbr.com.br/": {
+    "2nd type": "political", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "bias"
+  }, 
+  "http://www.marcusviniciusmotta.com": {
+    "2nd type": "bias", 
+    "3rd type": "political", 
+    "Source Notes (things to know?)": "", 
+    "type": "unreliable"
+  }, 
+  "http://www.miamiherald.com/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://www.newsdog.today/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "unreliable"
+  }, 
+  "http://www.newshub.co.nz": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "http://www.nieuwstool.nl/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "unreliable"
+  }, 
+  "http://www.opiniaocritica.com.br/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "bias"
+  }, 
+  "https://exame.abril.com.br/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "https://extra.globo.com/\u0002": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "bias"
+  }, 
+  "https://ipco.org.br/": {
+    "2nd type": "bias", 
+    "3rd type": "junksci", 
+    "Source Notes (things to know?)": "", 
+    "type": "unreliable"
+  }, 
+  "https://jornalivre.com/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "bias"
+  }, 
+  "https://jovemnerd.com.br": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "https://noticias.gospelmais.com.br/": {
+    "2nd type": "conspiracy", 
+    "3rd type": "junksci", 
+    "Source Notes (things to know?)": "", 
+    "type": "bias"
+  }, 
+  "https://olavodecarvalhofb.wordpress.com/": {
+    "2nd type": "bias", 
+    "3rd type": "political", 
+    "Source Notes (things to know?)": "", 
+    "type": "unreliable"
+  }, 
+  "https://olhardigital.com.br/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "https://omelete.uol.com.br/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "https://www.ap.org": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "https://www.apnews.com/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "https://www.bloomberg.com/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "https://www.cnbc.com": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "https://www.fatosdesconhecidos.com.br/": {
+    "2nd type": "junksci", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "unreliable"
+  }, 
+  "https://www.hltv.org/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "https://www.hollywoodreporter.com/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "https://www.infowars.com/": {
+    "2nd type": "political", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "bias"
+  }, 
+  "https://www.oantagonista.com/": {
+    "2nd type": "political", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "bias"
+  }, 
+  "https://www.tercalivre.com.br/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "bias"
+  }, 
+  "https://www.theverge.com/": {
+    "2nd type": "", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }, 
+  "thehill.com": {
+    "2nd type": "political", 
+    "3rd type": "", 
+    "Source Notes (things to know?)": "", 
+    "type": "reliable"
+  }
 }
